@@ -1,4 +1,4 @@
-module github.com/riski-sh/goorderbook v1.0.2
+module github.com/riski-sh/goorderbook
 
 go 1.16
 
